@@ -60,3 +60,22 @@ Leverage AI to build smart applications for any use case.
 * [Azure Metrics Advisor: Monitor and diagnose metrics issues.](https://azure.microsoft.com/en-us/services/metrics-advisor/)
 * [Azure Video Indexer: AI-powered video analysis.](https://azure.microsoft.com/en-us/services/video-indexer/)
 * [Azure Anomaly Detector: Detect irregularities in data patterns.](https://azure.microsoft.com/en-us/services/anomaly-detector/)
+
+  ## AI Applications & Bots 🎮
+
+* [Azure Bot Service: Build intelligent conversational bots.](https://azure.microsoft.com/en-us/services/bot-service/)
+* [Azure AI Personalizer: AI-driven user personalization.](https://azure.microsoft.com/en-us/services/personalizer/)
+* [Azure Applied AI Services: Pre-built AI for business solutions.](https://azure.microsoft.com/en-us/services/applied-ai-services/)
+* [Health Bot: Virtual healthcare assistants.](https://azure.microsoft.com/en-us/services/health-bot/)
+* [QnA Maker: AI-powered Q&A systems.](https://azure.microsoft.com/en-us/services/qna-maker/)
+* [Azure AI Studio: Develop, test, and deploy AI solutions.](https://azure.microsoft.com/en-us/services/azure-ai-studio/)
+* [Azure AI Document Intelligence: AI-driven document processing.](https://azure.microsoft.com/en-us/services/document-intelligence/)
+
+## Machine Learning & Data Science 🔬
+
+* [Azure Machine Learning: End-to-end machine learning service.](https://azure.microsoft.com/en-us/services/machine-learning/)
+* [Azure Databricks: AI & big data analytics with Apache Spark.](https://azure.microsoft.com/en-us/services/databricks/)
+* [Data Science Virtual Machines: Pre-configured AI dev environments.](https://azure.microsoft.com/en-us/services/data-science-vm/)
+* [Azure Open Datasets: Curated datasets for ML models.](https://azure.microsoft.com/en-us/services/open-datasets/)
+* [Microsoft Genomics: AI-powered genome sequencing.](https://azure.microsoft.com/en-us/services/genomics/)
+* [Azure OpenAI Service: Use advanced language models like GPT.](https://azure.microsoft.com/en-us/services/openai/)
