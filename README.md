@@ -103,3 +103,27 @@ Develop and manage your containerized apps faster with integrated tools.
 * [Container Registry: Store and manage container images.](https://azure.microsoft.com/en-us/services/container-registry/)
 * [Web App for Containers: Deploy and run containerized web apps.](https://azure.microsoft.com/en-us/services/app-service/containers/)
 * [Azure Kubernetes Fleet Manager: Manage multiple Kubernetes clusters across environments.](https://azure.microsoft.com/en-us/services/kubernetes-fleet-manager/)
+
+## Databases 🗄️
+
+Support rapid growth and innovate faster with secure, enterprise-grade, and fully managed database services.
+
+* [Azure SQL: Flexible, fully managed SQL database solutions.](https://azure.microsoft.com/en-us/services/sql-database/)
+    * [Azure SQL Database: Intelligent, scalable cloud database.](https://azure.microsoft.com/en-us/services/sql-database/)
+    * [Azure SQL Managed Instance: Managed SQL Server instance in the cloud.](https://azure.microsoft.com/en-us/services/sql-managed-instance/)
+* [Azure Cosmos DB: Fast NoSQL database with open APIs for any scale.](https://azure.microsoft.com/en-us/services/cosmos-db/)
+* [Azure Database for MySQL: Fully managed MySQL database.](https://azure.microsoft.com/en-us/services/mysql/)
+* [Azure Database for PostgreSQL: Intelligent and scalable PostgreSQL.](https://azure.microsoft.com/en-us/services/postgresql/)
+* [Azure Cache for Redis: High-throughput, low-latency data caching.](https://azure.microsoft.com/en-us/services/cache/)
+* [Azure Database Migration Service: Accelerate your data migration to Azure.](https://azure.microsoft.com/en-us/services/database-migration/)
+
+## Developer Tools 🛠️
+
+Build, manage and continuously deliver cloud applications – using any platform or language.
+
+* [App Configuration: Fast, scalable parameter storage for app configuration.](https://azure.microsoft.com/en-us/services/app-configuration/)
+* [Azure DevTest Labs: Quickly create environments using reusable templates and artifacts.](https://azure.microsoft.com/en-us/services/devtest-labs/)
+* [SDKs: Get the SDKs and command-line tools you need.](https://azure.microsoft.com/en-us/downloads/)
+* [Visual Studio Code: A powerful, lightweight code editor for cloud development.](https://code.visualstudio.com/)
+* [Azure DevOps: Services for teams to share code, track work, and ship software.](https://azure.microsoft.com/en-us/services/devops/)
+* [Azure Pipelines: Continuously build, test, and deploy to any platform and cloud.](https://azure.microsoft.com/en-us/services/devops/pipelines/)
