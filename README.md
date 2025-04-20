@@ -79,3 +79,27 @@ Leverage AI to build smart applications for any use case.
 * [Azure Open Datasets: Curated datasets for ML models.](https://azure.microsoft.com/en-us/services/open-datasets/)
 * [Microsoft Genomics: AI-powered genome sequencing.](https://azure.microsoft.com/en-us/services/genomics/)
 * [Azure OpenAI Service: Use advanced language models like GPT.](https://azure.microsoft.com/en-us/services/openai/)
+
+## Analytics 📊
+
+Gather, store, process, analyze, and visualize data of any variety, volume, or velocity.
+
+* [Azure Analysis Services: Enterprise-grade analytics engine as a service.](https://azure.microsoft.com/en-us/services/analysis-services/)
+* [Azure Data Factory: Hybrid data integration at enterprise scale.](https://azure.microsoft.com/en-us/services/data-factory/)
+* [Azure Data Lake Storage: Secure, scalable data lake for high-performance analytics.](https://azure.microsoft.com/en-us/services/storage/data-lake-storage/)
+* [Azure Databricks: AI and big data analytics with Apache Spark.](https://azure.microsoft.com/en-us/services/databricks/)
+* [Azure Synapse Analytics: Limitless analytics service with unmatched time to insight.](https://azure.microsoft.com/en-us/services/synapse-analytics/)
+* [Azure Data Explorer: Fast and highly scalable data exploration service.](https://azure.microsoft.com/en-us/services/data-explorer/)
+* [Event Hubs: Receive telemetry from millions of devices.](https://azure.microsoft.com/en-us/services/event-hubs/)
+* [Power BI Embedded: Embed Power BI analytics into your applications.](https://azure.microsoft.com/en-us/services/power-bi-embedded/)
+
+## Containers 🐳
+
+Develop and manage your containerized apps faster with integrated tools.
+
+* [Azure Kubernetes Service (AKS): Managed Kubernetes for scalable workloads.](https://azure.microsoft.com/en-us/services/kubernetes-service/)
+* [Azure Red Hat OpenShift: Fully managed OpenShift service.](https://azure.microsoft.com/en-us/services/openshift/)
+* [Container Instances: Easily run containers without managing servers.](https://azure.microsoft.com/en-us/services/container-instances/)
+* [Container Registry: Store and manage container images.](https://azure.microsoft.com/en-us/services/container-registry/)
+* [Web App for Containers: Deploy and run containerized web apps.](https://azure.microsoft.com/en-us/services/app-service/containers/)
+* [Azure Kubernetes Fleet Manager: Manage multiple Kubernetes clusters across environments.](https://azure.microsoft.com/en-us/services/kubernetes-fleet-manager/)
