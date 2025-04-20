@@ -14,3 +14,25 @@ Access cloud compute capacity, scale on demand, and pay only for what you use.
 * [Azure Kubernetes Service (AKS): Managed Kubernetes for scalable workloads.](https://azure.microsoft.com/en-us/services/kubernetes-service/)
 * [Container Instances: Serverless containers on Azure.](https://azure.microsoft.com/en-us/services/container-instances/)
 * [Azure VMware Solution: Run VMware workloads natively on Azure.](https://azure.microsoft.com/en-us/services/azure-vmware/)
+
+## Cloud Scaling & Compute Management ⚙️
+
+* [Virtual Machine Scale Sets: Auto-scale thousands of VMs.](https://azure.microsoft.com/en-us/services/virtual-machine-scale-sets/)
+* [Azure Spot Virtual Machines: Leverage discounted, unused compute capacity.](https://azure.microsoft.com/en-us/pricing/spot-vms/)
+* [Azure Compute Fleet: Efficiently provision and manage compute at scale.](https://azure.microsoft.com/en-us/services/compute-fleet/)
+
+## Cloud & App Services 🌐
+
+* [App Service: Build & host powerful web & mobile apps.](https://azure.microsoft.com/en-us/services/app-service/)
+* [Static Web Apps: Full-stack development with global availability.](https://azure.microsoft.com/en-us/services/static-web-apps/)
+* [Batch: Cloud-scale job scheduling & compute management.](https://azure.microsoft.com/en-us/services/batch/)
+* [Cloud Services: Scalable, highly available cloud applications.](https://azure.microsoft.com/en-us/services/cloud-services/)
+* [Azure Virtual Desktop: Secure, remote desktop access from anywhere.](https://azure.microsoft.com/en-us/services/virtual-desktop/)
+
+## Serverless & Development 🛠️
+
+* [Azure Functions: Serverless compute with event-driven functions.](https://azure.microsoft.com/en-us/services/functions/)
+* [Azure VM Image Builder: Streamlined VM image creation.](https://azure.microsoft.com/en-us/services/virtual-machines/image-builder/)
+* [Azure CycleCloud: HPC & big compute cluster management.](https://azure.microsoft.com/en-us/services/cyclecloud/)
+* [Service Fabric: Microservices orchestration.](https://azure.microsoft.com/en-us/services/service-fabric/)
+* [Azure Modeling & Simulation Workbench: Collaborative research & engineering workspace.](https://azure.microsoft.com/en-us/services/modsim-workbench/)
